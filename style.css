@@ -1,0 +1,48 @@
+﻿html {
+	touch-action: manipulation;
+}
+
+* {
+	margin-left: 20px;
+}
+
+div {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+#address, #value, #inputASMD, #key{
+	width: 100px;
+}
+
+label.green {
+	background-color: #4caf50; /* 背景色を設定 */
+	color: #fff; /* 文字色を設定 */
+	padding: 5px 10px; /* パディングを設定 */
+	border-radius: 5px; /* 角を丸くする */
+	box-shadow: 2px 2px 2px #888; /* 影をつける */
+}
+
+label.blue {
+	background-color: #0077cc;
+	color: #fff;
+	padding: 5px 10px;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px #888;
+}
+
+label.red {
+	background-color: #ff4500;
+	color: #fff;
+	padding: 5px 10px;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px #888;
+}
+
+label.orange {
+	background-color: #FFA500;
+	color: #fff;
+	padding: 5px 10px;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px #888;
+}
